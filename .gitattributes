@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+testsuperset.fasta filter=lfs diff=lfs merge=lfs -text
+data/Train/train_sequences.fasta filter=lfs diff=lfs merge=lfs -text
+data/Train/train_terms.tsv filter=lfs diff=lfs merge=lfs -text
